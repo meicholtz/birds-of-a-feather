@@ -5,6 +5,7 @@ from Card import STR_CARD_DICT
 
 stack = []
 
+#
 
 def play():
     global stack
